@@ -1,12 +1,12 @@
 # Atlanta Jobs
 
-Open roles in Atlanta: 76 roles at 36 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=atlanta).** Last updated 2026-11-08.
+Open roles in Atlanta: 77 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=atlanta).** Last updated 2026-11-08.
 
-All 76 are listed below. Browse the newest on [warmada.com/jobs/atlanta](https://warmada.com/jobs/atlanta?utm_source=github&utm_medium=list&utm_campaign=atlanta).
+All 77 are listed below. Browse the newest on [warmada.com/jobs/atlanta](https://warmada.com/jobs/atlanta?utm_source=github&utm_medium=list&utm_campaign=atlanta).
 
-**By role:** Software Engineering (4) · Hardware Engineering (2) · Data (2) · Product Management (3) · Design (1) · Marketing (4) · Sales (16) · Customer Success (1) · Operations (7) · Finance (3) · HR & Recruiting (2) · Legal & Compliance (1) · Other (30)
+**By role:** Software Engineering (4) · Hardware Engineering (2) · Data (2) · Product Management (3) · Design (1) · Marketing (4) · Sales (17) · Customer Success (1) · Operations (7) · Finance (3) · HR & Recruiting (2) · Legal & Compliance (1) · Other (30)
 
-**How it is built.** Warmada reads the public job boards of companies on Greenhouse, Ashby and Lever every day and keeps the postings that name a US location. A role is on this list when its posting names Atlanta. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
+**How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Atlanta. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
@@ -56,7 +56,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Manager, Marketing Analytics | Toronto, Chicago, Atlanta | Nov 4 | [Apply](https://stripe.com/jobs/search?gh_jid=8335413) · [Find the hiring manager](https://warmada.com/job/stripe-manager-marketing-analytics-dff93c2b-bd76-4b5b-ae9d-ae12efd68add?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Marketing Strategy &amp; Operations Business Partner | San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US | Oct 28 | [Apply](https://stripe.com/jobs/search?gh_jid=8329719) · [Find the hiring manager](https://warmada.com/job/stripe-marketing-strategy-and-operations-business-partner-48bbe329-5f17-4c18-b1d2-7bf497adab4f?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
-## Sales (16)
+## Sales (17)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -64,6 +64,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Senior Solution Architect | Atlanta, GA - Hybrid; Denver, CO - Hybrid | Nov 5 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8346975) · [Find the hiring manager](https://warmada.com/job/gusto-senior-solution-architect-4270bb52-2f16-4ad9-9119-0725b65c15dd?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Solution Architect | Atlanta, GA - Hybrid; Denver, CO - Hybrid | Nov 5 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8346979) · [Find the hiring manager](https://warmada.com/job/gusto-solution-architect-05fc898d-898d-41d1-9804-37e48d105a01?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Temporal](https://warmada.com/companies/temporal?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Business Development Representative | Atlanta, Georgia | Nov 5 | [Apply](https://jobs.ashbyhq.com/temporal/1aa528e5-5076-4d98-8b07-92444c692ade) · [Find the hiring manager](https://warmada.com/job/temporal-business-development-representative-72827a1e-d41f-436b-8cab-618d071d6cd7?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
+| solainsurance.com | National Sales Account Manager | Atlanta | Nov 5 | [Apply](https://jobs.ashbyhq.com/sola-insurance/349a72aa-9ff7-44e8-8e57-95fe28eb071b) · [Find the hiring manager](https://warmada.com/job/solainsurance-com-national-sales-account-manager-439b5579-4a7a-4e2e-9e39-f6b48f0cbf02?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Meta Floater Sales Specialist | Atlanta, GA | Nov 5 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Atlanta-GA/Meta-Floater-Sales-Specialist_REQ_115954) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-meta-floater-sales-specialist-dfd02017-0295-43d2-8bd5-6317c7404106?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Gusto](https://warmada.com/companies/gusto?utm_source=github&utm_medium=list&utm_campaign=atlanta) | PEO Sales, Account Executive | Atlanta, GA - Hybrid; Denver, CO - Hybrid; Phoenix, AZ - Hybrid; San Francisco, CA - Hybrid | Nov 4 | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8353794) · [Find the hiring manager](https://warmada.com/job/gusto-peo-sales-account-executive-8b9b991b-c413-4d49-ba93-6b56d28b608f?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Verkada](https://warmada.com/companies/verkada?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Regional Sales Director, Enterprise - Muni | Atlanta, GA United States | Nov 4 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5281762007) · [Find the hiring manager](https://warmada.com/job/verkada-regional-sales-director-enterprise-muni-0cab8f23-ca8c-4344-a19a-dc0bda2db667?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
