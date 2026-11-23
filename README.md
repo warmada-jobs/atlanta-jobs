@@ -1,21 +1,20 @@
 # Atlanta Jobs
 
-Open roles in Atlanta: 68 roles at 39 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=atlanta).** Last updated 2026-11-22.
+Open roles in Atlanta: 67 roles at 37 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=atlanta).** Last updated 2026-11-23.
 
-All 68 are listed below. Browse the newest on [warmada.com/jobs/atlanta](https://warmada.com/jobs/atlanta?utm_source=github&utm_medium=list&utm_campaign=atlanta).
+All 67 are listed below. Browse the newest on [warmada.com/jobs/atlanta](https://warmada.com/jobs/atlanta?utm_source=github&utm_medium=list&utm_campaign=atlanta).
 
-**By role:** Software Engineering (2) · Hardware Engineering (1) · Design (1) · Marketing (7) · Sales (11) · Customer Success (1) · Operations (6) · Finance (7) · HR & Recruiting (2) · Other (30)
+**By role:** Software Engineering (1) · Hardware Engineering (1) · Design (1) · Marketing (7) · Sales (10) · Customer Success (1) · Operations (7) · Finance (7) · HR & Recruiting (2) · Other (30)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Atlanta. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (2)
+## Software Engineering (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [PrizePicks](https://warmada.com/companies/prizepicks?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Senior Site Reliability Engineer (SRE) | Atlanta, GA preferred, Remote | Nov 18 | [Apply](http://prizepicks.com/position?gh_jid=8208519003) · [Find the hiring manager](https://warmada.com/job/prizepicks-senior-site-reliability-engineer-sre-1dabeb2b-6a02-4aaf-9fb4-9cf6f32c937e?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [FanDuel](https://warmada.com/companies/fanduel?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Software Engineer - Salesforce Tester | Atlanta, Georgia, United States | Nov 9 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8367806) · [Find the hiring manager](https://warmada.com/job/fanduel-software-engineer-salesforce-tester-c42a60ef-060c-44cb-90ba-aac3393c749b?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
 ## Hardware Engineering (1)
 
@@ -41,7 +40,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Startup Lifecycle Marketing Lead | Atlanta; Austin; Boston; Chicago; Denver; Miami; New York City; Philadelphia; Raleigh; San Francisco; Tampa; Washington DC | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8367103) · [Find the hiring manager](https://warmada.com/job/mongodb-startup-lifecycle-marketing-lead-2a91d3d7-390e-40a0-a930-430d362114f1?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | Upgrade | Demand Generation Manager, Auto | Atlanta; San Francisco; United States (Remote) | Nov 10 | [Apply](https://job-boards.greenhouse.io/upgrade/jobs/4753238005) · [Find the hiring manager](https://warmada.com/job/upgrade-demand-generation-manager-auto-9bee2cac-f151-43d8-a977-812f7aa0c651?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
-## Sales (11)
+## Sales (10)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -55,7 +54,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [OpenGov](https://warmada.com/companies/opengov?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Sales Development Representative | US \| Georgia \| Atlanta | Nov 12 | [Apply](https://jobs.ashbyhq.com/opengov/ac3a197a-3210-4ffa-8da5-0ccb37e11a7e) · [Find the hiring manager](https://warmada.com/job/opengov-sales-development-representative-87b874cf-e456-491b-991f-2e51ba718b34?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Senior Solutions Architect (Pre-Sales) | Atlanta; Charlotte; Miami; Orlando; Raleigh | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8381821) · [Find the hiring manager](https://warmada.com/job/mongodb-senior-solutions-architect-pre-sales-1f86b399-a672-4fa3-816f-26d91d2b8a2c?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [OpenGov](https://warmada.com/companies/opengov?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Enterprise Account Executive | US \| Georgia \| Atlanta | Nov 10 | [Apply](https://jobs.ashbyhq.com/opengov/5738a13b-f265-4563-8207-ba9ac7b8427d) · [Find the hiring manager](https://warmada.com/job/opengov-enterprise-account-executive-ab8ea8bc-5a49-4016-b1aa-6a05b3e15a69?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [Temporal](https://warmada.com/companies/temporal?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Account Executive, Commercial Growth | Atlanta, Georgia | Nov 9 | [Apply](https://jobs.ashbyhq.com/temporal/df242664-5e3f-464b-9b30-b21fcf733f0b) · [Find the hiring manager](https://warmada.com/job/temporal-account-executive-commercial-growth-e9785553-04c6-41b5-a742-9694e4e0c9c9?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
 ## Customer Success (1)
 
@@ -63,10 +61,11 @@ A bad listing? Email hello@warmada.com with the link.
 | --- | --- | --- | --- | --- |
 | [Verifone](https://warmada.com/companies/verifone?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Reverse Logistics Support Specialist | Atlanta, Georgia, United States; Clearwater, Florida, United States | Nov 18 | [Apply](https://job-boards.greenhouse.io/verifone/jobs/8203239003) · [Find the hiring manager](https://warmada.com/job/verifone-reverse-logistics-support-specialist-c0b1f5d6-45f5-4906-b98f-074c19358473?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
-## Operations (6)
+## Operations (7)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Zipline](https://warmada.com/companies/zipline?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Business Operations Lead, Atlanta \| Field Operations | Atlanta, Georgia, USA | Nov 23 | [Apply](https://www.zipline.com/open-roles/8213447003?gh_jid=8213447003) · [Find the hiring manager](https://warmada.com/job/zipline-business-operations-lead-atlanta-field-operations-3faa731c-3d9d-4cef-95e7-1e13b8036693?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Cato Networks](https://warmada.com/companies/cato-networks?utm_source=github&utm_medium=list&utm_campaign=atlanta) | HR Operations Specialist | Atlanta, Georgia, United States | Nov 19 | [Apply](https://www.catonetworks.com/careers/careers-post/5041719101?gh_jid=5041719101) · [Find the hiring manager](https://warmada.com/job/cato-networks-hr-operations-specialist-ae36b490-4e81-4e50-ac0e-e08b4674768e?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Zipline](https://warmada.com/companies/zipline?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Field Operations Supervisor \| Atlanta, GA | Atlanta, Georgia, USA | Nov 14 | [Apply](https://www.zipline.com/open-roles/8203980003?gh_jid=8203980003) · [Find the hiring manager](https://warmada.com/job/zipline-field-operations-supervisor-atlanta-ga-6ed898ad-347f-485c-9a25-84619c04e3fd?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [DLR Group](https://warmada.com/companies/dlr-group?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Workplace Project Manager | Atlanta, Georgia, United States; Orlando, Florida, United States; West Palm Beach, Florida, United States | Nov 13 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5473426008) · [Find the hiring manager](https://warmada.com/job/dlr-group-workplace-project-manager-9124bb9d-8a53-4582-9ac1-453d8b9ca36f?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
