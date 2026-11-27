@@ -1,10 +1,10 @@
 # Atlanta Jobs
 
-Open roles in Atlanta: 59 roles at 33 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=atlanta).** Last updated 2026-11-26.
+Open roles in Atlanta: 51 roles at 28 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=atlanta).** Last updated 2026-11-27.
 
-All 59 are listed below. Browse the newest on [warmada.com/jobs/atlanta](https://warmada.com/jobs/atlanta?utm_source=github&utm_medium=list&utm_campaign=atlanta).
+All 51 are listed below. Browse the newest on [warmada.com/jobs/atlanta](https://warmada.com/jobs/atlanta?utm_source=github&utm_medium=list&utm_campaign=atlanta).
 
-**By role:** Software Engineering (1) · Product Management (2) · Design (2) · Marketing (6) · Sales (8) · Customer Success (1) · Operations (5) · Finance (6) · HR & Recruiting (4) · Other (24)
+**By role:** Software Engineering (1) · Product Management (2) · Design (1) · Marketing (5) · Sales (6) · Customer Success (1) · Operations (5) · Finance (4) · HR & Recruiting (4) · Other (22)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. A role is on this list when its posting names Atlanta. The section comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -23,14 +23,13 @@ A bad listing? Email hello@warmada.com with the link.
 | [FanDuel](https://warmada.com/companies/fanduel?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Senior Data Product Manager | Atlanta, Georgia, United States | Nov 24 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8414034) · [Find the hiring manager](https://warmada.com/job/fanduel-senior-data-product-manager-472ca234-9608-4b0d-bf3a-7fdc912689e4?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [FanDuel](https://warmada.com/companies/fanduel?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Data Product Manager | Atlanta, Georgia, United States | Nov 24 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8414032) · [Find the hiring manager](https://warmada.com/job/fanduel-data-product-manager-4a85129f-6289-417b-8828-f8cdfb421e79?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
-## Design (2)
+## Design (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
 | [PrizePicks](https://warmada.com/companies/prizepicks?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Senior Product Designer | Atlanta, GA preferred, Remote | Nov 23 | [Apply](http://prizepicks.com/position?gh_jid=8046063003) · [Find the hiring manager](https://warmada.com/job/prizepicks-senior-product-designer-cc3e5b69-5053-4795-981d-bae9f5edd000?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [PrizePicks](https://warmada.com/companies/prizepicks?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Creative Director | Atlanta, GA preferred, Remote; New York, NY, USA | Nov 13 | [Apply](http://prizepicks.com/position?gh_jid=8203413003) · [Find the hiring manager](https://warmada.com/job/prizepicks-creative-director-73ab375f-d7e2-4468-979c-f35634958000?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
-## Marketing (6)
+## Marketing (5)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -39,9 +38,8 @@ A bad listing? Email hello@warmada.com with the link.
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Forward Deployed AI Accelerator, Marketing | Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada | Nov 20 | [Apply](https://stripe.com/jobs/search?gh_jid=8406140) · [Find the hiring manager](https://warmada.com/job/stripe-forward-deployed-ai-accelerator-marketing-62a0426b-778b-4151-beaf-1bfdd23af2cc?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Stripe](https://warmada.com/companies/stripe?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Marketing Strategy &amp; Operations Lead, Global Demand, Campaigns, Field Marketing | San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US | Nov 19 | [Apply](https://stripe.com/jobs/search?gh_jid=8384782) · [Find the hiring manager](https://warmada.com/job/stripe-marketing-strategy-and-operations-lead-global-demand-campaigns-field-mark-696f8db2-0044-425c-aa18-43a43edf27c4?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [PrizePicks](https://warmada.com/companies/prizepicks?utm_source=github&utm_medium=list&utm_campaign=atlanta) | CRM Marketing Specialist | Atlanta, GA preferred, Remote; New York, NY, USA | Nov 16 | [Apply](http://prizepicks.com/position?gh_jid=8199626003) · [Find the hiring manager](https://warmada.com/job/prizepicks-crm-marketing-specialist-4c359e75-5df1-49f9-819e-868a2dc597d3?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [MongoDB](https://warmada.com/companies/mongodb?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Startup Lifecycle Marketing Lead | Atlanta; Austin; Boston; Chicago; Denver; Miami; New York City; Philadelphia; Raleigh; San Francisco; Tampa; Washington DC | Nov 12 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8367103) · [Find the hiring manager](https://warmada.com/job/mongodb-startup-lifecycle-marketing-lead-2a91d3d7-390e-40a0-a930-430d362114f1?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
-## Sales (8)
+## Sales (6)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -51,8 +49,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Jetson Home](https://warmada.com/companies/jetson-home?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Energy Sales Advisor (Hybrid Field + Virtual) | Atlanta, GA | Nov 17 | [Apply](https://job-boards.greenhouse.io/jetsonhome/jobs/4511096009?gh_jid=4511096009) · [Find the hiring manager](https://warmada.com/job/jetson-home-energy-sales-advisor-hybrid-field-virtual-37abaf4c-bad7-44a9-bffb-a05f3a9726e2?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Cribl](https://warmada.com/companies/cribl?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Regional Sales Manager, Atlanta (Enterprise) | Remote - Atlanta, Georgia | Nov 13 | [Apply](https://cribl.io/job-detail/?gh_jid=6014375004) · [Find the hiring manager](https://warmada.com/job/cribl-regional-sales-manager-atlanta-enterprise-dc53a4b8-a8b9-4730-8329-2fa7bdd7ae93?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Verifone](https://warmada.com/companies/verifone?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Enterprise Account Executive | Atlanta, Georgia, United States; Clearwater, Florida, United States; Philadelphia, Pennsylvania, United States | Nov 13 | [Apply](https://job-boards.greenhouse.io/verifone/jobs/8203837003) · [Find the hiring manager](https://warmada.com/job/verifone-enterprise-account-executive-37f66762-d90b-4563-8d49-9da6f3f410c3?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [2020 Companies, Inc.](https://warmada.com/companies/2020-companies-inc?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Area Sales Manager | Atlanta, GA | Nov 13 | [Apply](https://2020companies.wd1.myworkdayjobs.com/External_Careers/job/Atlanta-GA/Area-Sales-Manager_REQ_116752) · [Find the hiring manager](https://warmada.com/job/2020-companies-inc-area-sales-manager-25419aec-bf7f-48ea-9b4d-9aca37a70324?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [Flexport](https://warmada.com/companies/flexport?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Account Executive I (Farmer) | Atlanta, Georgia, United States | Nov 12 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8384430) · [Find the hiring manager](https://warmada.com/job/flexport-account-executive-i-farmer-4e0b993a-7851-425a-8a87-96300e8946c6?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
 ## Customer Success (1)
 
@@ -70,7 +66,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [Zipline](https://warmada.com/companies/zipline?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Field Operations Supervisor \| Atlanta, GA | Atlanta, Georgia, USA | Nov 14 | [Apply](https://www.zipline.com/open-roles/8203980003?gh_jid=8203980003) · [Find the hiring manager](https://warmada.com/job/zipline-field-operations-supervisor-atlanta-ga-6ed898ad-347f-485c-9a25-84619c04e3fd?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [DLR Group](https://warmada.com/companies/dlr-group?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Workplace Project Manager | Atlanta, Georgia, United States; Orlando, Florida, United States; West Palm Beach, Florida, United States | Nov 13 | [Apply](https://job-boards.greenhouse.io/dlrgroup/jobs/5473426008) · [Find the hiring manager](https://warmada.com/job/dlr-group-workplace-project-manager-9124bb9d-8a53-4582-9ac1-453d8b9ca36f?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
-## Finance (6)
+## Finance (4)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -78,8 +74,6 @@ A bad listing? Email hello@warmada.com with the link.
 | [Mercer Advisors](https://warmada.com/companies/mercer-advisors?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Tax Manager (Atlanta, GA) | Atlanta | Nov 20 | [Apply](https://job-boards.greenhouse.io/merceradvisors/jobs/5491499008) · [Find the hiring manager](https://warmada.com/job/mercer-advisors-tax-manager-atlanta-ga-fe97698a-e7d1-45ce-aaa4-319b95a0e067?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Roofstock](https://warmada.com/companies/roofstock?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Cash Accountant | Atlanta, Georgia, United States; Charlotte, North Carolina, United States; Dallas, Texas, United States; Houston, Texas, United States; Las Vegas, Nevada, United States; Phoenix, Arizona, United States; Tampa, Florida, United States | Nov 19 | [Apply](https://job-boards.greenhouse.io/roofstock/jobs/8950775002) · [Find the hiring manager](https://warmada.com/job/roofstock-cash-accountant-adcbc79d-566f-452c-98e0-2d09d62f1943?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Cortland](https://warmada.com/companies/cortland?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Financial Planning &amp; Analysis (FP&amp;A) Analyst - Atlanta, GA | Atlanta, GA | Nov 16 | [Apply](https://job-boards.greenhouse.io/cortland/jobs/4509554009) · [Find the hiring manager](https://warmada.com/job/cortland-financial-planning-and-analysis-fp-and-a-analyst-atlanta-ga-f8c19ff1-ed33-4d22-b931-6a1b191f8b7d?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [Riveron](https://warmada.com/companies/riveron?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Business Performance Improvement - Director (Finance Transformation) | Atlanta, GA | Nov 13 | [Apply](https://jobs.ashbyhq.com/riveron/b814847d-d1db-4b54-aa8a-df0db2b04a74) · [Find the hiring manager](https://warmada.com/job/riveron-business-performance-improvement-director-finance-transformation-e70bc27b-8f8c-4777-a1af-68e176c915df?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [Riveron](https://warmada.com/companies/riveron?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Business Performance Improvement - Associate Director (Finance Transformation) | Atlanta, GA | Nov 13 | [Apply](https://jobs.ashbyhq.com/riveron/e22d7ea3-1388-439a-950e-c1a36dc54195) · [Find the hiring manager](https://warmada.com/job/riveron-business-performance-improvement-associate-director-finance-transformati-fa677393-0e13-40da-8d24-f7b6ef8ef932?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
 ## HR & Recruiting (4)
 
@@ -90,7 +84,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [ABACUS](https://warmada.com/companies/abacus?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Coordinator, People Operations | Atlanta, Georgia, United States; Frisco, Texas, United States | Nov 18 | [Apply](https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8207442003) · [Find the hiring manager](https://warmada.com/job/abacus-coordinator-people-operations-5b0819e2-ac9b-4108-9289-4111dec39264?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [ABACUS](https://warmada.com/companies/abacus?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Sr Talent Acquisition Specialist | Atlanta, Georgia, United States; Frisco, Texas, United States | Nov 17 | [Apply](https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8200569003) · [Find the hiring manager](https://warmada.com/job/abacus-sr-talent-acquisition-specialist-c06d9510-eefd-4568-a581-5dd64cb3605a?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 
-## Other (24)
+## Other (22)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -116,5 +110,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [AeroVect](https://warmada.com/companies/aerovect?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Test Driver, Autonomous Vehicles | Atlanta | Nov 16 | [Apply](https://jobs.ashbyhq.com/AeroVect/dcb5e78c-73cf-46df-b9fc-a9d52b19d4c0) · [Find the hiring manager](https://warmada.com/job/aerovect-test-driver-autonomous-vehicles-661f257c-e510-4a78-a416-c82514eced29?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [AeroVect](https://warmada.com/companies/aerovect?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Autonomous GSE Operator | Atlanta | Nov 16 | [Apply](https://jobs.ashbyhq.com/AeroVect/b7815661-2644-484c-9bc8-dfa626144fad) · [Find the hiring manager](https://warmada.com/job/aerovect-autonomous-gse-operator-f08f1009-8a88-4f55-a8c6-c7324697efed?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
 | [Secretariat](https://warmada.com/companies/secretariat?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Senior Benefits Analyst | Atlanta, Georgia, United States | Nov 13 | [Apply](https://job-boards.greenhouse.io/secretariatadvisorsllc/jobs/4506888009) · [Find the hiring manager](https://warmada.com/job/secretariat-senior-benefits-analyst-ebb31d62-40f1-4fa9-828a-942d9b84d506?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [Flexport](https://warmada.com/companies/flexport?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Trade Advisory Associate | Atlanta, Georgia, United States; Dallas, Texas, United States | Nov 13 | [Apply](https://job-boards.greenhouse.io/flexport/jobs/8384698) · [Find the hiring manager](https://warmada.com/job/flexport-trade-advisory-associate-0d4087aa-1594-46a8-b4a1-aca185c4ffbf?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
-| [Headlands Research](https://warmada.com/companies/headlands-research?utm_source=github&utm_medium=list&utm_campaign=atlanta) | Clinical Research Coordinator | Atlanta, Georgia | Nov 12 | [Apply](https://job-boards.greenhouse.io/headlandsresearch/jobs/4506119009) · [Find the hiring manager](https://warmada.com/job/headlands-research-clinical-research-coordinator-f94d30d8-f064-43e9-ad6d-4ddb0a60c45a?utm_source=github&utm_medium=list&utm_campaign=atlanta) |
